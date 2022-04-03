@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ML-AI
 - 🌱 I’m currently learning C and ML
 - 📫 How to reach me: You can reach me via
-   [My LinkedIn](https://www.linkedin.com/in/suraksha-rajagopalan-9769891b7/)
-- 😄 Pronouns: ...
+   [My LinkedIn] (https://www.linkedin.com/in/suraksha-rajagopalan-9769891b7/)
+- 😄 My interests : 
 - ⚡ Fun fact: ...
 -->
