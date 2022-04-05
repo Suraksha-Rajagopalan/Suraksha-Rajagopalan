@@ -1,9 +1,7 @@
-### Hi there 👋
 
 
-**Suraksha-Rajagopalan/Suraksha-Rajagopalan** 
+<h1> Hi there 👋 This is Suraksha Rajagopalan </h1>
 
-Here are some ideas to get you started:
 - ✍️ Currently pursuing my undergraduation at
 <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in branch of Electronics and Computer Engineering 
 - 🔭 I’m currently working on ML-AI
