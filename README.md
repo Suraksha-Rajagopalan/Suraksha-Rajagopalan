@@ -1,6 +1,8 @@
-
-
-<h1> Hi there 👋 This is Suraksha Rajagopalan </h1>
+<html>
+<body>
+  <h1 style='color: green; text-align: center;'> Hi there 👋 This is Suraksha Rajagopalan </h1>
+</body>
+</html>
 
 - ✍️ Currently pursuing my undergraduation at
 <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in branch of Electronics and Computer Engineering 
