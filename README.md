@@ -31,5 +31,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Suraksha-Rajagopalan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
