@@ -7,7 +7,7 @@
 </div>
   
 <div align="center">
-<h2>Currently pursuing my undergraduation at <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in branch of Electronics and Computer Engineering </h2>
+<h2>Currently pursuing my undergraduation at <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in the branch of Electronics and Computer Engineering </h2>
 </div>
 <div>
   <h3>🛠️ Skills</h3>
@@ -21,13 +21,13 @@
 <li>⚡ Fun fact: Love sleeping and eating </li>
 <li>💬 Favorite Quote: "Greatness is often built when no one is watching"</li>
 
-<h3>My Stats</h3>
+<h3>📈My Stats</h3>
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraksha-Rajagopalan&show_icons=true&theme=radical)
 
 
-<h3>Languages Used</h3>
+<h3>👨‍💻Languages Used</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
