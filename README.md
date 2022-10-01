@@ -32,5 +32,5 @@
 
 <h3>👨‍💻Languages Used</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/Suraksha-Rajagopalan/github-readme-stats)
 
