@@ -27,10 +27,10 @@
 <h3>📈My Stats</h3>
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraksha-Rajagopalan&show_icons=true&theme=radical)
+![Suraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <h3>👨‍💻Languages Used</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/Suraksha-Rajagopalan/github-readme-stats)
+[![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
