@@ -27,7 +27,7 @@
 <h3>📈My Stats</h3>
 
 
-![Suraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Suraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraksha-Rajagopalan&show_icons=true&theme=radical)
 
 
 <h3>👨‍💻Languages Used</h3>
