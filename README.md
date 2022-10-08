@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgs.search.brave.com/6t2-u_cXXPaUhxdosN-itUgiXUDvVArBCDONIYcz228/rs:fit:1200:590:1/g:ce/aHR0cHM6Ly9pbnRl/cnNvZy5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTkvMTIv/dWtyYWluaWFuLWFp/LWRldmVsb3BtZW50/LmpwZw"  alt="ai">
+  <img src="https://user-images.githubusercontent.com/91787553/194712680-9f633ef9-b170-422b-a1c7-2483dfcff3c2.png"  alt="github">
   </div>
   <div align="center">
   <h1 style='color: green; text-align: center;'> Hi there 👋 This is Suraksha Rajagopalan </h1>
