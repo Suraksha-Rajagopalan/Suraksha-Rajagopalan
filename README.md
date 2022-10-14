@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/suraksha-rajagopalan-9769891b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/R_Suraksha"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.facebook.com/suraksha.r.56"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/suraksharajagopalan/"><img alt="Instagram" scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/suraksharajagop1"><img alt="HackerRank" scr="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  
   
 </div>
   
@@ -37,3 +34,7 @@
 
 [![My Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align = "center">
+  
+[![Suraksha's github trophy](https://github-profile-trophy.vercel.app/?username=Suraksha-Rajagopalan&row=1)](https://github.com/Suraksha-Rajagopalan/github-profile-trophy)
+  </div>
