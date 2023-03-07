@@ -29,7 +29,7 @@
 ![Suraksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraksha-Rajagopalan&show_icons=true&theme=radical)
 
 
-<h3>👨‍💻Languages Used</h3>
+<h3>👨‍💻</h3>
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
@@ -48,6 +48,9 @@
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00.svg?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white">
+  <img alt="Watson" src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white">
+  
 </div>
 
 
