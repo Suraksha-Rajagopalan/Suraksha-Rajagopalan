@@ -2,14 +2,11 @@
   <img src="https://user-images.githubusercontent.com/91787553/194712680-9f633ef9-b170-422b-a1c7-2483dfcff3c2.png"  alt="github">
 
   <p align="center"><a href="https://github.com/Suraksha-Rajagopalan"><img width="70%" alt="Hi there 👋 This is Suraksha Rajagopalan" src="https://github.com/Suraksha-Rajagopalan/Suraksha-Rajagopalan/blob/main/Suraksha.png" /></a></p>
-
-  <a href="https://www.linkedin.com/in/suraksha-rajagopalan-9769891b7/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.facebook.com/suraksha.r.56"><img alt="FaceBook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   
 </div>
   
 <div align="center">
-<h2>Currently pursuing my undergraduation at <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in the branch of Electronics and Computer Engineering </h2>
+<h2>Undergraduate at <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in the branch of Electronics and Computer Engineering </h2>
 </div>
 <div>
   <h3>🛠️ Skills</h3>
