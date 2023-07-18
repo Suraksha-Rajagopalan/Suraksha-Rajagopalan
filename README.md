@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91787553/194712680-9f633ef9-b170-422b-a1c7-2483dfcff3c2.png"  alt="github">
 
-  <p align="center"><a href="https://github.com/Suraksha-Rajagopalan"><img width="70%" alt="Hi there 👋 This is Suraksha Rajagopalan" src="https://github.com/Suraksha-Rajagopalan/Suraksha-Rajagopalan/blob/main/Suraksha.png" /></a></p>
+  <p align="center"><a href="https://github.com/Suraksha-Rajagopalan"><img width="65%" alt="Hi there 👋 This is Suraksha Rajagopalan" src="https://github.com/Suraksha-Rajagopalan/Suraksha-Rajagopalan/blob/main/Suraksha.png" /></a></p>
   
 </div>
   
