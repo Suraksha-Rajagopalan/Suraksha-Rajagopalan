@@ -9,10 +9,10 @@
 <h2>Undergraduate at <a href="https://amrita.edu/campus/amritapuri/" target="_main">AMRITA VISHWA VIDYAPEETHAM</a> in the branch of Electronics and Computer Engineering </h2>
 </div>
 <div>
-  <h3>🛠️ Skills</h3>
-<p align="left"> Being an Computer Science enthusiasts from the age of 15, I always was interested in coding and learning new things. AI and machine learning are the major areas of my interest. I have always been keen to learn and work in this area of field from a long time. This is same reason why I was got motivated in joining the AI Club which is part of the ACM in Amrita. This club helps students in understanding each algorithm via student made workshops. This method of learning helps the students understanding the concepts better. We have regular workshops in the club. The skills acquired from the workshop will helps us in participating in hackathons.</br>
-Apart from AI having to learn to develop a website and host it is also a part of the club, these skills help us in numerous ways. Recently I have started a web devlopment course. </br>
-The course of Electronics and Computer Engineering is a very unquie and well structured course in Amrita. Interesting course such as IoT and Digital have made facinated into learning more of these topics. I have made an IoT group project regarding home automation in Tinkercad Simulator.</p>
+  <h3>👧About Me</h3>
+<p align="left">Being a Computer Science enthusiast from the age of 15, I was always interested in coding and learning new things. AI and machine learning are the major areas of my interest. I have always been keen to learn and work in this area of field for a long time. This is the same reason why I got motivated to join the AI Club, which is part of the ACM in Amrita. This club helps students with understanding each algorithm via student-made workshops. This method of learning helps the students understand the concepts better. We have regular workshops in the club. The skills acquired from the workshop will help us with participating in hackathons.
+Apart from AI, having to learn to develop a website and host it, is also a part of the club, these skills help us in numerous ways. Recently I have started a web development course.
+The course in Electronics and Computer Engineering is a very unique and well-structured course in Amrita. Interesting courses such as IoT and Digital have made us fascinated by learning more about these topics. I have done an IoT group project regarding home automation in Tinkercad Simulator.</p>
 <img align="right" alt="Coding" width="290" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
   
   </div>
