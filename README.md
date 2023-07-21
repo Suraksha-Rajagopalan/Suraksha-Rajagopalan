@@ -17,7 +17,7 @@ The course in Electronics and Computer Engineering is a very unique and well-str
   
   </div>
   <li>🌱 I’m currently learning C and ML</li>
-<li>😄 My interests : Coding🤓, Harry Potter, Sleeping😴</li>
+<li>😄 My interests : Coding🤓, Sleeping😴</li>
 <li>⚡ Fun fact: Love sleeping and eating </li>
 <li>💬 Favorite Quote: "Greatness is often built when no one is watching"</li>
 
