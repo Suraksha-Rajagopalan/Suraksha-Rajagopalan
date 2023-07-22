@@ -16,10 +16,8 @@ The course in Electronics and Computer Engineering is a very unique and well-str
 <img align="right" alt="Coding" width="290" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
   
   </div>
-  <li>🌱 I’m currently learning C and ML</li>
-<li>😄 My interests : Coding🤓, Sleeping😴</li>
-<li>⚡ Fun fact: Love sleeping and eating </li>
-<li>💬 Favorite Quote: "Greatness is often built when no one is watching"</li>
+
+💬 Favorite Quote: "Greatness is often built when no one is watching"
 
 <h3>📈My Stats</h3>
 
