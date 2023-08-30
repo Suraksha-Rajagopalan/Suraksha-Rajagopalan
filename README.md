@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  alt="github">
+  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"  alt="github" width="80%">
 
   <p align="center"><a href="https://github.com/Suraksha-Rajagopalan"><img width="65%" alt="Hi there 👋 This is Suraksha Rajagopalan" src="https://github.com/Suraksha-Rajagopalan/Suraksha-Rajagopalan/blob/main/Suraksha.png" /></a></p>
   
