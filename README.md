@@ -45,7 +45,5 @@
 
 <div align = "center">
   <img src="https://github-profile-trophy.vercel.app/?username=Suraksha-Rajagopalan&row=1&theme=dark#gh-dark-mode-only" width = "900">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraksha-Rajagopalan&hide_progress=false&layout=compact&theme=radical" width= "400">
 </p>
   </div>
